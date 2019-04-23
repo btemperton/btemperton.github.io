@@ -1,5 +1,5 @@
 ---
-title: Temperton Lab
+title: Temperton Lab - Viral Pirates
 layout: home
 group: home
 ---
