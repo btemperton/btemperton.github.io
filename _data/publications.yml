@@ -2,11 +2,10 @@
   date: 20190319
   image: '/static/img/pub/arsenic.png'
   pmid: 30890605
-  pdf: '/static/pdf/host.hijacking.pdf'
+  pdf: '/static/pdf/arsenic.pdf'
   links:
       - name: "Giovannoni Lab"
         url: 'https://microbiology.science.oregonstate.edu/dr-stephen-giovannoni'
-
 
 - citation: 'Warwick-Dugdale J, Buchholz HH, Allen MJ, Temperton B. **2019**. Host-hijacking and planktonic piracy: how phages command the microbial high seas. _Virology_ 16:15.'
   date: 20190201
