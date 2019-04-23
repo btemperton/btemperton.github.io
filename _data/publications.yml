@@ -1,4 +1,14 @@
-- citation: 'Warwick-Dugdale J, Buchholz HH, Allen MJ, Temperton B. *2019*. Host-hijacking and planktonic piracy: how phages command the microbial high seas. _Virology_ 16:15.'
+- citation: ''Giovannoni SJ, Halsey KH, Saw J, Muslin O, Suffridge CP, Sun J, Lee C-P, Moore ER, Temperton B, Noell SE. **2019**. A Parasitic Arsenic Cycle That Shuttles Energy from Phytoplankton to Heterotrophic Bacterioplankton. _mBio_ 10:e00246–19.'
+  date: 20190319
+  image: '/static/img/pub/arsenic.png'
+  pmid: 30890605
+  pdf: '/static/pdf/host.hijacking.pdf'
+  links:
+    - name: "Giovannoni Lab"
+      url: 'https://microbiology.science.oregonstate.edu/dr-stephen-giovannoni'
+
+
+- citation: 'Warwick-Dugdale J, Buchholz HH, Allen MJ, Temperton B. **2019**. Host-hijacking and planktonic piracy: how phages command the microbial high seas. _Virology_ 16:15.'
   date: 20190201
   image: '/static/img/pub/host.hijacking.jpg'
   pmid: 30709355

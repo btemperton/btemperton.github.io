@@ -4,4 +4,4 @@ layout: default
 group: research
 ---
 
-## Research in the Temperton lab is focused on understanding host-virus interactions and viral ecology in globally abundant marine microbes.
+## Research in the Temperton lab is focused on understanding host-virus interactions in marine and aquaculture microbiomes.
