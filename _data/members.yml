@@ -1,26 +1,47 @@
-- name: Eli Zunder
-  image: /static/img/members/zunder.jpg
+- name: Ben Temperton
+  image: /static/img/members/Ben_Temperton.jpg
   position: Principal Investigator
-  email: ezunder (at) virginia.edu
-  scholar: "wHUbRh4AAAAJ&hl"
-  twitter: "zunderlab"
-  description: "Eli received his Ph.D. in [Biophysics](http://biophysics.ucsf.edu/) from [UCSF](http://www.ucsf.edu/) in 2009. There, he worked in [Kevan Shokat's](http://shokatlab.ucsf.edu/) lab studying the role of PI3K signaling in [insulin response](/publications#16647110), [cancer](/publications#22802621), and [drug resistance](/publications#18691552).
+  email: b.temperton (at) exeter.ac.uk
+  scholar: "xQzBioAAAAJ&hl"
+  twitter: "bentemperton"
+  description: "Ben received his Ph.D in Microbiology from [Queen's University Belfast](https://www.qub.ac.uk/) in 2011, working on how marine microbes store phosphate as polyphosphate, particularly in oligotrophic environments.
 
+  Fascinated by microbes with tiny genomes, Ben did his postdoc in [Steve Giovannoni's](https://microbiology.science.oregonstate.edu/dr-stephen-giovannoni) lab, using metaproteomics, single-cell genomics and metagenomics to evaluate functional and taxonomic diversity of the Pelagibacter. During this time, he was involved in the discovery of the pelagiphages, most abundant viruses on Earth, and fell in love with phage biology.
 
-  Eli did his postdoc in [Garry Nolan's](http://web.stanford.edu/group/nolan/) lab at [Stanford University](http://www.stanford.edu/). There, he developed a [cell barcoding method](/publications#25612231) for [mass cytometry](https://www.fluidigm.com/products/cytof) that he used to study [kinase inhibitor specificity across the human immune system](/publications#22902532), developed a graph-based mapping algorithm to [track iPS cell reprogramming](/publications#25748935) and [identify early reprogramming intermediates](/publications#25830878), and applied these generalizable methods to map [AML patient samples by prognosis](/publications#26095251) and [organism-level organization of the mouse immune system](/publications#26160952).
+  After a second postdoc at Plymouth Marine Laboratory, where he established the UK's first Environmental Single cell genomics centre, Ben moved to Exeter as a Lecturer in Bioinformatics in September 2015. There, he established a group to investigate host-virus interactions in organisms with streamlined genomes, coupling viral metagenomics with high-throughput culturing of fastidious bacteria and their phages."
 
+- name: Michelle Michelsen
+  image: /static/img/members/mm.jpg
+  position: Graduate Research Assistant
+  email: M.Michelsen (at) exeter.ac.uk
+  description: ""
 
-  In January 2016, Eli began his independent career as an Assistant Professor in the [Department of Biomedical Engineering](http://bme.virginia.edu/) at the [University of Virginia](http://www.virginia.edu/)."
-
-- name: Kristen Fread
-  image: /static/img/members/fread.jpg
+- name: Joanna Warwick-Dugdale
+  image: /static/img/members/jwd.jpg
   position: Graduate Student
-  email: kif5qw (at) virginia.edu
-  description: "Kristen is from Accomac, Virginia, a small town on the Eastern Shore of Virginia. She completed her undergraduate education at Virginia Tech and received a BS in Biochemistry with minors in Chemistry and Spanish. Now, she is a part of the Biomedical Engineering program at UVA pursuing a Ph.D. in the Zunder Lab. Her research focuses on studying stem cell differentiation and cell fate decisions."
+  email: jwd (at) pml.ac.uk
+  description: ""
 
+ - name: Holger Buchholz
+   image: /static/img/members/hb.jpg
+   position: Graduate Student
+   email: hb513 (at) exeter.ac.uk
+   description: ""
 
-- name: Corey Williams
-  image: /static/img/members/williams.jpg
-  position: Graduate Student
-  email: cmw6pa (at) virginia.edu
-  description: "Corey, originally from Allentown, Pennsylvania, is a Biomedical Engineering PhD student at UVA. He attended the University of Pittsburgh, earning a BS in Bioengineering and a minor in Chemistry. His research focuses on in vitro cardiomyocyte differentiation and its relation to embryonic heart development."
+ - name: Shayma Alathari
+   image: /static/img/members/sa.jpg
+   position: Graduate Student
+   email: sa655 (at) exeter.ac.uk
+   description: ""
+
+ - name: Lucy Witherall
+   image: /static/img/members/lw.jpg
+   position: Graduate Student
+   email: lcw210 (at) exeter.ac.uk
+   description: ""
+
+ - name: Ashley Bell
+   image: /static/img/members/ab.jpg
+   position: Graduate Student
+   email: agb214 (at) exeter.ac.uk
+   description: ""

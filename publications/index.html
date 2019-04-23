@@ -1,5 +1,5 @@
 ---
-title: Publications from the Zunder Lab
+title: Publications from the Temperton Lab
 layout: default
 group: publications
 ---
@@ -25,7 +25,7 @@ group: publications
 			<li>Deposited GEO Dataset: <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc={{publication.geo}}"> {{publication.geo}}</a></li>
 			{% endif %}
 			{% if publication.pdbs %}
-			<li>Deposited Structure{% if publication.pdbs.size > 1 %}s{% endif %}: 
+			<li>Deposited Structure{% if publication.pdbs.size > 1 %}s{% endif %}:
 			{% for code in publication.pdbs %}
 			<a href="http://www.rcsb.org/pdb/explore/explore.do?structureId={{code}}">{{code}}</a>{% unless forloop.last %}, {% endunless %}
 			{% endfor %}
@@ -42,4 +42,3 @@ group: publications
 </div> <br>
 {% endfor %}
 </div>
-

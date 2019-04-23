@@ -21,11 +21,3 @@
 - name: contact
   link: "/contact"
   group: contact
-
-# - name: links
-#   link: "/links"
-#   group: links
-
-- name: private
-  link: "https://sites.google.com/site/zunderlab/"
-  group: private

@@ -3,11 +3,11 @@ title: Contact
 ---
 
 
-### Contact the Zunder Lab
+### Contact the btemperton Lab
 
-Eli Zunder, Ph.D.
-Assistant Professor
-Department of Biomedical Engineering
-University of Virginia
+Ben Temperton, Ph.D.
+Senior Lecturer in Bioinformatics
+School of Biosciences
+University of Exeter
 
-email: eli.zunder (#!) virginia.edu
+email: b.temperton (#!) exeter.ac.uk
